@@ -1,0 +1,22 @@
+[
+    {
+        "id": "C001",
+        "nombre": "Juan P\u00e9rez",
+        "telefono": "3197401234"
+    },
+    {
+        "id": "C002",
+        "nombre": "Mar\u00eda Garc\u00eda",
+        "telefono": "2094567890"
+    },
+    {
+        "id": "C003",
+        "nombre": "Pedro L\u00f3pez",
+        "telefono": "3094658721"
+    },
+    {
+        "id": "C004",
+        "nombre": "sam",
+        "telefono": "2342343434"
+    }
+]

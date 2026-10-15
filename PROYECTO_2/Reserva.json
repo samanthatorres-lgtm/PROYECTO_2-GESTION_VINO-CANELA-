@@ -1,0 +1,98 @@
+[
+    {
+        "id_reserva": "R001",
+        "cliente": {
+            "id": "C001",
+            "nombre": "Juan Pérez",
+            "telefono": "3197401234"
+        },
+        "mesa": {
+            "id": "M001",
+            "capacidad": 2,
+            "ubicacion": "Ventana"
+        },
+        "dia_reserva": "Sin día",
+        "jornada_reserva": "martes",
+        "estado_reserva": false
+    },
+    {
+        "id_reserva": "R002",
+        "cliente": {
+            "id": "C002",
+            "nombre": "María García",
+            "telefono": "2094567890"
+        },
+        "mesa": {
+            "id": "M002",
+            "capacidad": 2,
+            "ubicacion": "Centro"
+        },
+        "dia_reserva": "Sin día",
+        "jornada_reserva": "viernes",
+        "estado_reserva": "Cena"
+    },
+    {
+        "id_reserva": "R003",
+        "cliente": {
+            "id": "C001",
+            "nombre": "Juan Pérez",
+            "telefono": "3197401234"
+        },
+        "mesa": {
+            "id": "M001",
+            "capacidad": 2,
+            "ubicacion": "Ventana"
+        },
+        "dia_reserva": "lunes",
+        "jornada_reserva": "1",
+        "estado_reserva": true
+    },
+    {
+        "id_reserva": "R004",
+        "cliente": {
+            "id": "C002",
+            "nombre": "María García",
+            "telefono": "2094567890"
+        },
+        "mesa": {
+            "id": "M011",
+            "capacidad": 8,
+            "ubicacion": "Salón"
+        },
+        "dia_reserva": "sábado",
+        "jornada_reserva": "1",
+        "estado_reserva": true
+    },
+    {
+        "id_reserva": "R005",
+        "cliente": {
+            "id": "C002",
+            "nombre": "María García",
+            "telefono": "2094567890"
+        },
+        "mesa": {
+            "id": "M002",
+            "capacidad": 2,
+            "ubicacion": "Centro"
+        },
+        "dia_reserva": "lunes",
+        "jornada_reserva": "1",
+        "estado_reserva": true
+    },
+    {
+        "id_reserva": "R006",
+        "cliente": {
+            "id": "C004",
+            "nombre": "sam",
+            "telefono": "2342343434"
+        },
+        "mesa": {
+            "id": "M004",
+            "capacidad": 2,
+            "ubicacion": "Barra"
+        },
+        "dia_reserva": "sábado",
+        "jornada_reserva": "2",
+        "estado_reserva": false
+    }
+]
