@@ -47,13 +47,6 @@ El restaurante tiene una distribución diseñada específicamente para ofrecer e
 * `Intro_GUI_rest.py`: Responsable de la interfaz gráfica con `tkinter`, mapa interactivo visual, tablas `treeview`, y formularios de registro.
 * `App_restaurante.py`: Responsable de la lógica de consola, guardado y carga JSON, y el flujo del menú principal.
 
----
-
-## ⚙️ Setup e Instalación
-
-1. **Requisitos:** Python 3.8+ instalado en tu sistema.
-2. **Librería Gráfica:** El paquete `tkinter` (suele venir preinstalado en Python para Windows y macOS. En Linux usa `sudo apt-get install python3-tk`).
-3. **Recursos Visuales:** Asegúrate de tener en la misma carpeta los archivos `MAPA_MESAS_GUI.png` y `AVISO_GUI.png` que utiliza la GUI para el mapa y el aviso de reserva.
 
 ---
 
